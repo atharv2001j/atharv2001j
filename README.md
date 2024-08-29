@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🤖 I’m currently working on project related to **Generative AI and Computer Vision** .
-- 🎓📚💻 *Computer Engineering student at Sanjivani College of Engineering*
+- 🎓📚💻 *Computer Engineer from Sanjivani College of Engineering*
 - 👩🏻‍💻 All of my projects are available at [GitHub](https://github.com/atharv2001j)
 - 💭 Ask me about **Python, SQL, NLP, Machine Learning, Computer Vision, Generative AI, and many more.....**
 - 📧 How to reach me: [joshiatharv67@gmail.com](mailto:joshiatharv67@gmail.com)
